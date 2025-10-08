@@ -1,2 +1,2 @@
 # Malicious-URL-Classifier
-Final Project from AI Enhanced Security course
+This jupyter notebook is the final project for my AI Enhanced Security course. I used the malicious URL dataset from Kaggle.com to test multiple ML models on detecting and classifying websites based on their URLs. Further work on this project would be increasing the ability of the models to detect phishing URLs, as they were the most difficult for all of the model types to detect.
